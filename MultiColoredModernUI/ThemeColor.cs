@@ -65,3 +65,4 @@ namespace MultiColoredModernUI
             return Color.FromArgb(color.A, (byte)red, (byte)green, (byte)blue);
         }
     }
+}
