@@ -17,6 +17,10 @@ namespace DA_Servicentro.DBContects
         {
         }
 
+        public Database_BikestoreContext()
+        {
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
