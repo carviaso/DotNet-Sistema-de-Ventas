@@ -1,0 +1,38 @@
+﻿{
+   "ContextClassName": "Database_BikestoreContext",
+   "ContextNamespace": "DBContects",
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": "EntityTypes",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "DA_Servicentro",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[customers]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[order_items]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[orders]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[products]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": true,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}

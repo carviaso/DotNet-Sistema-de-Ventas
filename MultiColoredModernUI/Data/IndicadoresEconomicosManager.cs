@@ -7,7 +7,7 @@ using System.Xml.Serialization;
 using System.Net.Http;
 
 
-namespace IndicadoresEconomicos.Data
+namespace MultiColoredModernUI.Data
 {
     class Cat_indicadoreconomic
     {

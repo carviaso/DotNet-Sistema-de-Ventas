@@ -113,6 +113,16 @@ namespace IndicadoresEconomicos.app.IU.Friendly.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Logo_RjCodeAdvance_3_300x81 {
+            get {
+                object obj = ResourceManager.GetObject("Logo-RjCodeAdvance-3-300x81", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap PPLogo {
             get {
                 object obj = ResourceManager.GetObject("PPLogo", resourceCulture);
